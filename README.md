@@ -22,3 +22,11 @@ Show error message for 5 seconds if login has failed.
 *Bonus task:* show user name instead of button upon successful login and disable button during server request.
 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-03)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-03-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-03-showing-error-message-for-a-period-of-time-15b428d49315?sk=5c0907b3827fc6270429796ec530ee76)
+
+## Day 04
+
+Make a loading with progress bar until result.
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-4)
