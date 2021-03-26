@@ -30,3 +30,11 @@ Show error message for 5 seconds if login has failed.
 Make a loading with progress bar until result.
 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-4)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-4-solution)
+- [Article](https://medium.com/angularwave/lets-make-loading-with-progress-bar-until-result-rxjs-challenge-04-f638d3cfc539?sk=e5ab427bc7fd33d4843185f1686a359b)
+
+## Day 05
+
+Create a countdown and a button to restart it.
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-05)
