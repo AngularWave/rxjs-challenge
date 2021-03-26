@@ -1,5 +1,5 @@
 # RxJS Challenge
-A set of little RxJS puzzles to practice your Observable skills.
+A set of little RxJS puzzles to practice your Observable skills by [Alex](https://twitter.com/Waterplea) and [Roman](https://twitter.com/marsibarsi).
 
 ## Day 01
 Create an Observable to track focus in a section of the page.
