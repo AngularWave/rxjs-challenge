@@ -38,3 +38,11 @@ Make a loading with progress bar until result.
 Create a countdown and a button to restart it.
 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-05)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-05-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-5-making-a-countdown-6cd6171685cb?sk=11f7f0616bae33a270247cf48c9a590c)
+
+## Day 06
+
+Write a stream of selected seats for users of cinema website.
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-6)
