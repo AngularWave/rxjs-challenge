@@ -46,3 +46,11 @@ Create a countdown and a button to restart it.
 Write a stream of selected seats for users of cinema website.
 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-6)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-6-solution)
+- [Article](https://medium.com/angularwave/rxjs-ng-challenge-6-picking-cinema-seats-8d73dbaadcea?sk=11eaf62c8ce3faf5392abf4e5d0b3495)
+
+## Day 07
+
+Make a sticky header that disappears when you scroll down and re-appears when you scroll up.
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-07)
