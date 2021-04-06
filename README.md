@@ -94,6 +94,6 @@ Make a toast notification disappear in 3 seconds unless user holds cursor over i
 
 Make a modal close on Esc key and by clicking outside.
 
-*Important* Only clicks that both started and ended outside count! 
+*Important*: only clicks that both started and ended outside count! 
 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-12)
