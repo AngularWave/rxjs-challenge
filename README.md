@@ -79,3 +79,21 @@ Make subtitles appear in pairs for a karaoke game.
 Make a color picker.
 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-10)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-10-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-10-color-picker-palette-71e99e28b400?sk=1f624b2be951544a2399865c52f9366f)
+
+## Day 11
+
+Make a toast notification disappear in 3 seconds unless user holds cursor over it
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-11)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-11-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-11-auto-close-notification-23910ea53218?sk=d7ad0a1f5dee2297a5d1181c58192e79)
+
+## Day 12
+
+Make a modal close on Esc key and by clicking outside.
+
+*Important* Only clicks that both started and ended outside count! 
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-12)
