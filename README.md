@@ -97,3 +97,40 @@ Make a modal close on Esc key and by clicking outside.
 *Important*: only clicks that both started and ended outside count! 
 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-12)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-12-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-12-modal-closing-4c01884db556?sk=6fe05ac705672468ddd257263224f5e1)
+
+## Day 13
+
+Make a sticky header that shrinks proportionally when you scroll down. 
+A common pattern for mobile devices so header takes less screen estate when page is scrolled.
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-13)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-13-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-13-shrinking-header-72fc672a5b6a?sk=6501dd68073698c3bb0869a653ad5e57)
+
+## Day 14
+
+You have an area with folders. Allow user to select several folders dragging their mouse (like on desktop).
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-14)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-14-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-14-select-folders-d1838087ba47?sk=698d4e240f0a186eb20b972ba15827c4)
+
+## Day 15
+
+Determine whether an element was focused with keyboard, mouse, touch or programmatically
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-15)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-15-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-15-tracking-focus-type-aa8309f52bc1?sk=d9f84ac05cc25d704ad071f8d6c111bf)
+
+## Day 16
+
+There is a picture in some preview app and logic that handles user events and collect them in three streams: drag$, rotation$ and zoom$. 
+
+Make an RxJS stream that will transform a picture inside zone according to drag events, rotation and zoom
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-16)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-16-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-16-image-viewer-30cf01d61f0a?sk=59dcb0b698d2ab62f436b7b00b79a612)
