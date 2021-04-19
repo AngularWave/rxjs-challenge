@@ -134,3 +134,38 @@ Make an RxJS stream that will transform a picture inside zone according to drag 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-16)
 - [Solution](https://stackblitz.com/edit/rxjs-challenge-16-solution)
 - [Article](https://medium.com/angularwave/rxjs-challenge-16-image-viewer-30cf01d61f0a?sk=59dcb0b698d2ab62f436b7b00b79a612)
+
+## Day 17
+
+Create a no-flicker loading message (if loading took < 1 sec. do not show it, if loading took > 1 sec. show it for at least 1 sec).
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-17)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-17-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-17-non-flicker-loader-15545d3be525?sk=35996e885123bc2881ec61288a5b47eb)
+
+
+## Day 18
+
+Imitate native iOS and Android pull-to-refresh behavior.
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-18)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-18-solution)
+- [Article](https://medium.com/angularwave/rxjs-and-angular-pull-to-refresh-that-emulates-native-ios-and-android-rxjs-challenge-18-75408c53f66?sk=a527a38925c1bbb0e623fd6169faa7d0)
+
+
+## Day 19
+
+Create Observable based on requestAnimationFrame and show FPS meter.
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-19)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-19-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-19-fps-meter-a44383e2bd6d?sk=5b25c343f2cb793431a166f5d09e9db9)
+
+
+## Day 20
+
+Recreate classic Material Design ripple effect.
+
+- [Template](https://stackblitz.com/edit/rxjs-challenge-20)
+- [Solution](https://stackblitz.com/edit/rxjs-challenge-20-solution)
+- [Article](https://medium.com/angularwave/rxjs-challenge-20-ripple-68b62a77fba8?sk=f31d29e8d8c5bd3b311dc59d64ac6217)
