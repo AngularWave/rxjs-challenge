@@ -60,7 +60,7 @@ Make a sticky header that disappears when you scroll down and re-appears when yo
 
 ## Day 08
 
-Make a sticky header that disappears when you scroll down and re-appears when you scroll up.
+Make an operator function to prevent unnecessary backend requests when it is possible to calculate items locally.
 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-8)
 - [Solution](https://stackblitz.com/edit/rxjs-challenge-8-solution)
