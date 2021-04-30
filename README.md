@@ -84,7 +84,7 @@ Make a color picker.
 
 ## Day 11
 
-Make a toast notification disappear in 3 seconds unless user holds cursor over it
+Make a toast notification disappear in 3 seconds unless user holds cursor over it.
 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-11)
 - [Solution](https://stackblitz.com/edit/rxjs-challenge-11-solution)
@@ -119,7 +119,7 @@ You have an area with folders. Allow user to select several folders dragging the
 
 ## Day 15
 
-Determine whether an element was focused with keyboard, mouse, touch or programmatically
+Determine whether an element was focused with keyboard, mouse, touch or programmatically.
 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-15)
 - [Solution](https://stackblitz.com/edit/rxjs-challenge-15-solution)
@@ -127,9 +127,9 @@ Determine whether an element was focused with keyboard, mouse, touch or programm
 
 ## Day 16
 
-There is a picture in some preview app and logic that handles user events and collect them in three streams: drag$, rotation$ and zoom$. 
+There is a picture in some preview app and logic that handles user events and collect them in three streams: `drag$`, `rotation$` and `zoom$`. 
 
-Make an RxJS stream that will transform a picture inside zone according to drag events, rotation and zoom
+Make an RxJS stream that will transform a picture inside zone according to drag events, rotation and zoom.
 
 - [Template](https://stackblitz.com/edit/rxjs-challenge-16)
 - [Solution](https://stackblitz.com/edit/rxjs-challenge-16-solution)
